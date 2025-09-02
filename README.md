@@ -1,4 +1,4 @@
-# My Python Package
+# Learn AI
 
 ## Overview
 My Python Package is a simple and efficient package designed to provide [brief description of the package functionality]. It aims to [explain the purpose and benefits of the package].
