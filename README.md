@@ -1,3 +1,3 @@
 # Learn AI
 
-just me learning llama API and openai API
+just me learning llama API, openai API, pandas, numpy
